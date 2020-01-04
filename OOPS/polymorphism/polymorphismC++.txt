@@ -1,0 +1,8 @@
+Polymorphism can be implemented in C++ in two ways :
+
+1. Run-time Polymorphism
+2. Compile-time Polymorphism
+
+Run-time polymorphism is implemented by virtual functions.
+
+Compile-time polymorphism is implemented by method-overloading and operator-overloading.
